@@ -11,7 +11,7 @@
 }
 
 .cyberpunk-input {
-    width: calc(100% - 20px); /* Учитываем padding */
+    width: calc(100% - 20px);
     padding: 10px;
     margin-bottom: 10px;
     background-color: #333;
@@ -19,7 +19,7 @@
     border: 1px solid #00ff00;
     border-radius: 5px;
     font-family: 'Courier New', Courier, monospace;
-    box-sizing: border-box; /* Убедимся, что padding не увеличивает ширину */
+    box-sizing: border-box;
 }
 
 .cyberpunk-button {
